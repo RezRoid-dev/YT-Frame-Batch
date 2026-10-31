@@ -1,0 +1,21 @@
+IMAGE 001
+TIME: 00:00:00.000 --> 00:00:05.000
+
+PROMPT:
+A tidy creative workstation displaying three different kinds of generic software at once: a layered landscape photograph, a multitrack video timeline, and an animated geometric composition. A few well-used tools and a sketchbook suggest years of accumulated practice, wide three-quarter desk view. Natural soft daylight, bright white and warm-neutral backgrounds, realistic materials, restrained color, uncluttered composition, clear focal hierarchy, precise details, professional minimalist YouTube documentary B-roll visual quality. Landscape 16:9 aspect ratio, target resolution 1920 × 1080. Every screen and interface must use only abstract graphical controls, blank shapes, unlabeled icons and nonverbal pictorial media previews. Absolutely no visible text, no captions, no subtitles, no typography, no letters, no numbers, no logos, no watermarks, no text overlays, no humans, no faces, no body parts.
+
+---
+
+IMAGE 002
+TIME: 00:00:05.000 --> 00:00:10.000
+
+PROMPT:
+A neat desk beside a calendar made of blank squares, a stack of repeated plain payment cards, and a keyboard with several subtly highlighted blank keys. On the monitor, a coordinated creative-tool workspace shows many custom panels, emphasizing long-term investment and familiarity. Natural soft daylight, bright white and warm-neutral backgrounds, realistic materials, restrained color, uncluttered composition, clear focal hierarchy, precise details, professional minimalist YouTube documentary B-roll visual quality. Landscape 16:9 aspect ratio, target resolution 1920 × 1080. Every screen and interface must use only abstract graphical controls, blank shapes, unlabeled icons and nonverbal pictorial media previews. Absolutely no visible text, no captions, no subtitles, no typography, no letters, no numbers, no logos, no watermarks, no text overlays, no humans, no faces, no body parts.
+
+---
+
+IMAGE 003
+TIME: 00:00:10.000 --> 00:00:15.000
+
+PROMPT:
+An orderly row of connected creative monitors and storage drives suddenly meets a small luminous abstract AI processing cube on the opposite side of the desk. A carefully balanced wide composition captures the moment before a major change in familiar creative workflows. Natural soft daylight, bright white and warm-neutral backgrounds, realistic materials, restrained color, uncluttered composition, clear focal hierarchy, precise details, professional minimalist YouTube documentary B-roll visual quality. Landscape 16:9 aspect ratio, target resolution 1920 × 1080. Every screen and interface must use only abstract graphical controls, blank shapes, unlabeled icons and nonverbal pictorial media previews. Absolutely no visible text, no captions, no subtitles, no typography, no letters, no numbers, no logos, no watermarks, no text overlays, no humans, no faces, no body parts.
